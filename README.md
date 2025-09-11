@@ -1,28 +1,33 @@
-# libguides sitemap
+# libguide sitemap
 
 A sitemap of our LibGuide designed to illustrate its major components and their interrelations. It's intended to act as both documentation and version control.
 
 ## usage
 
-1. Fork and Clone the repository:
+1. Fork and Clone the repository: [tristan-ecu.github.io/libguide-sitemap](https://tristan-ecu.github.io/libguide-sitemap/)
 2. Browse the sitemap, identify where you need to make your changes, and make them
 3. Commit and Push your changes
 4. Create a Pull request
 5. Await Review and Merge if requested
 
-## ideas
+## to-do
 
 - 
 
+## ideas
+
+- Build with SSG
+- GitHub wikis for documentation
+
 ## changelog
 
--
+- 
 
 <br>
 
 last commit by:
 
-sitemap as of:
+sitemap as of: 11/09/25
 
     ROOT
     ┗ system
