@@ -12,7 +12,7 @@ A sitemap of our LibGuide designed to illustrate its major components and their 
 
 ## to-do
 
-- 
+- Plan for **world domination**
 
 ## ideas
 
